@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Output {
 
-    public void o() {
+    public void outputEnd () {
 
         Scanner in = new Scanner(System.in);
         System.out.print("Введите число: ");
